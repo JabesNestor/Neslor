@@ -101,29 +101,19 @@ print(f"Paleta aleatoria '{palette_name}': {palette}")
 
 ## Paletas de colores disponibles
 
-- 
-
-coorp
+- coorp
 
 
-- 
-
-budapest
+- budapest
 
 
-- 
-
-fox
+- fox
 
 
-- 
-
-city
+- city
 
 
-- 
-
-primary
+- primary
 
 
 

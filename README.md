@@ -59,9 +59,7 @@ pip install -r requirements.txt
 
 Puedes obtener una paleta de colores específica utilizando la función 
 
-get_palette
-
-:
+get_palette:
 
 ```python
 from core import get_palette

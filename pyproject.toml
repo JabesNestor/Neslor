@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Neslor"
+version = "0.1.0"
+description = "A library for color palettes"
+authors = [{ name = "Jabes Frías", email = "jabesnestor@gmail.com" }]
+dependencies = [
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.1"
+]
+
+[tool.setuptools]
+packages = ["neslor"]  
